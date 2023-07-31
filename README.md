@@ -14,3 +14,6 @@ PROJECT STATUS:
 2) It can also be improved by sending messages to users once the order is delivered.
 3) Retrieve the past and current orders of the users.
 4) Support payment through the chatBot.
+
+
+[Demo Video](https://drive.google.com/file/d/1Peft0vjxJ7G_ZNLwub_6q91RcZDRyD41/view?usp=drive_link)
